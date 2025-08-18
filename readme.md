@@ -5,9 +5,7 @@
     <h1 align="center">TikTok UserName Changer</h1>
 </p>
 <p align="center">
-    <em><code>► Fast & Secure tiktok username changer
-
-   (The tool stopped working ❌)</code></em>
+    <em><code>► Fast & Secure tiktok username change</code></em>
 </p>
 <p align= "center">
 <a href="https://discord.gg/VzSHHHAsTG">
