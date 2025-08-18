@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <em><code>► Fast & Secure tiktok username changer
-(The tool stopped working after the loophole was closed.)</code></em>
+(The tool stopped working ❌)</code></em>
 </p>
 <p align= "center">
 <a href="https://discord.gg/VzSHHHAsTG">
