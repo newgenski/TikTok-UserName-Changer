@@ -4,6 +4,16 @@
 <p align="center">
     <h1 align="center">TikTok UserName Changer</h1>
 </p>
+
+---
+
+<p align="center">
+  <strong>⚠️ Important Notice</strong><br>
+  <em>This tool is currently <b>not working anymore</b> due to TikTok API changes. Please wait for a future update.</em>
+</p>
+
+---
+
 <p align="center">
     <em><code>► Fast & Secure tiktok username change</code></em>
 </p>
